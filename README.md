@@ -1,6 +1,6 @@
 # ΓΡΑΠΤΗ ΕΡΓΑΣΙΑ 2
 
-![ΕΑΠ](https://upload.wikimedia.org/wikipedia/el/thumb/4/4f/EAP-logo.svg/320px-EAP-logo.svg.png)
+![ΕΑΠ](https://upload.wikimedia.org/wikipedia/el/thumb/4/4f/EAP-logo.svg/330px-EAP-logo.svg.png)
 ### ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΣΧΟΛΗ ΘΕΤΙΚΩΝ ΕΠΙΣΤΗΜΩΝ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑΣ
 
 ### ΠΡΟΓΡΑΜΜΑ ΣΠΟΥΔΩΝ ΣΔΥ: «ΣΧΕΔΙΑΣΗ ΚΑΙ ΑΝΑΠΤΥΞΗ ΣΥΣΤΗΜΑΤΩΝ ΔΙΑΧΥΤΟΥ ΥΠΟΛΟΓΙΣΜΟΥ»
